@@ -1,22 +1,24 @@
 # TTK4145
 TTK4145 - Real Time Programming. Contains all exercises
 ## Exercise 1  
-Part1 - Thinking about elevators  
-Part2 - Version control  
-Part3 - Reasons for concurrency and parallelism  
-Part4 - Finally some code  
+__Part1__ - Thinking about elevators  
+__Part2__ - Version control  
+__Part3__ - Reasons for concurrency and parallelism  
+__Part4__ - Finally some code  
 > c  
 > go  
 > python  
 
 ## Exercise 2  
-Part1 - Mutex and channel basics  
-Part2 - Avoiding data races
+__Part1__ - Mutex and channel basics  
+__Part2__ - Avoiding data races
 > c  
 > go  
 > python  
-Part3 - Protection against data races  
+  
+__Part3__ - Protection against data races  
 > Erlang  
-> Rust  
-Part4 - Choosing a language   
+> Rust    
+
+__Part4__ - Choosing a language   
 
