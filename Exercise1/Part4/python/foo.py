@@ -16,7 +16,7 @@ def incrementingFunction():
         i += 1
 
 def decrementingFunction():
-    global j
+    global i
     # TODO: decrement i 1_000_000 times
     for c in range(1000000):
         i -= 1

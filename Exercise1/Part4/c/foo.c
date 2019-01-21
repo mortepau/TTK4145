@@ -4,7 +4,7 @@
 int i = 0;
 
 // Note the return type: void*
-void* decrementingThreadFunction(){
+void* incrementingThreadFunction(){
     int c = 0;
     while (c < 1000000) {
         i = i + 1;
