@@ -22,3 +22,6 @@ __Part3__ - Protection against data races
 
 __Part4__ - Choosing a language   
 
+## Exercise 6
+__Part1__ - Create process pair
+
